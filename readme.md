@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Grad-CAM(Gradient-wegihted Class Activation Mapping)
  - Model Visualization explanations 기법
  - CAM을 통해 모델이 무엇을 보고 예측/분류하는지에 대해 시각적으로 보여줌으로써 학습이 잘 되었는지, 한쪽으로 치우쳐 학습되지는 않았는지, General한 특성을 학습했는지에 대해 확인할 수 있다.
